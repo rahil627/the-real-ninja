@@ -22,7 +22,11 @@ tags:
 - independent video game development
 - runner
 ---
+
 # The Real Ninja
+I think I was just interested in making a full game.., with sounds, images, levels, ‘n all.
+
+# copied from the post on my web-site
 An auto-runner and slicing hybrid game prototype.
 
 I believe this was my second game prototype. My main goal here was just to make a complete game within a time limit (Experimental Gameplay Project). I really wanted to try making everything: art, sounds, etc., and get the processes of making them all down, and getting the workflow down.
